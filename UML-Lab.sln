@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UML-Lab", "UML-Lab\UML-Lab.csproj", "{046E64E9-1517-4717-8D7E-BFD91A3910A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046E64E9-1517-4717-8D7E-BFD91A3910A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046E64E9-1517-4717-8D7E-BFD91A3910A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046E64E9-1517-4717-8D7E-BFD91A3910A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046E64E9-1517-4717-8D7E-BFD91A3910A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C504EE-A8B3-42A9-8C56-C37E7B2663C0}
+	EndGlobalSection
+EndGlobal

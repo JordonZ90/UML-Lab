@@ -1,0 +1,11 @@
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\bin\Debug\netcoreapp3.1\UML-Lab.exe
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\bin\Debug\netcoreapp3.1\UML-Lab.deps.json
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\bin\Debug\netcoreapp3.1\UML-Lab.runtimeconfig.json
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\bin\Debug\netcoreapp3.1\UML-Lab.runtimeconfig.dev.json
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\bin\Debug\netcoreapp3.1\UML-Lab.dll
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\bin\Debug\netcoreapp3.1\UML-Lab.pdb
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\obj\Debug\netcoreapp3.1\UML-Lab.csprojAssemblyReference.cache
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\obj\Debug\netcoreapp3.1\UML-Lab.AssemblyInfoInputs.cache
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\obj\Debug\netcoreapp3.1\UML-Lab.AssemblyInfo.cs
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\obj\Debug\netcoreapp3.1\UML-Lab.dll
+C:\Users\zigar\source\repos\UML-Lab\UML-Lab\obj\Debug\netcoreapp3.1\UML-Lab.pdb
